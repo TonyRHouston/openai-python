@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.17.1 (2026-02-08)
+
+Full Changelog: [v2.17.0...v2.17.1](https://github.com/openai/openai-python/compare/v2.17.0...v2.17.1)
+
 ## 2.17.0 (2026-02-05)
 
 Full Changelog: [v2.16.0...v2.17.0](https://github.com/openai/openai-python/compare/v2.16.0...v2.17.0)
